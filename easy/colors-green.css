@@ -1,0 +1,106 @@
+/* #D1DEBD; 1 */
+/* #9C6D59; 2 */
+/* #728751; 3 */
+/* #EEF8DF; 4 LIGHTER */
+
+body {
+  background: #EEF8DF; /*4*/
+}
+
+a {
+  color: #9C6D59; /*2*/
+}
+
+#navBarLeft, #navBarCenter, #navBarRight {
+  background: #D1DEBD; /*1*/
+}
+
+#navBarRight form INPUT {
+  background: #EEF8DF; /*4*/
+}
+
+#pageHeader {
+  background: #728751; /*3*/
+}
+
+#title {
+  color: #ffffff;
+}
+
+#leftColumn {
+  background: #D1DEBD; /*1*/
+}
+
+#rightColumn {
+  background: #D1DEBD; /*1*/
+}
+
+/* Blocks */
+
+.blockTitle {
+  background: #728751;/*3*/
+  color: #FFFFFF;
+}
+
+/* Table */
+
+.outer TH, .itemHead  {
+  background: #728751;/*3*/
+  color: #FFFFFF;
+}
+
+.outer TH A, .itemHead A {
+  color: #FFFFFF;
+}
+
+.head {
+  background: #C1CEAD; /*1*/
+  color: #9C6D59; /*2*/
+}
+
+.odd {
+  background: #D7E6C5; /*?*/
+}
+
+.even {
+  background: #E7F6D5; /*?*/
+}
+
+.item .itemInfo {
+  background: #C1CEAD; /*1*/
+  color: #9C6D59; /*2*/
+}
+
+td#mainmenu a:hover,td#usermenu a:hover {
+  background: #728751; /*3*/
+  color: #ffffff;
+}
+
+td#mainmenu a.menuTop {
+  border-top: 1px solid #728751;/*3*/
+  border-right: 1px solid #728751;/*3*/
+  border-bottom: 1px solid #728751;/*3*/
+  border-left: 1px solid #728751;/*3*/
+}
+
+td#mainmenu a.menuMain {
+  border-right: 1px solid #728751;/*3*/
+  border-bottom: 1px solid #728751;/*3*/
+  border-left: 1px solid #728751;/*3*/
+}
+
+td#mainmenu a.menuSub {
+  border-right: 1px solid #728751;/*3*/
+  border-bottom: 1px solid #728751;/*3*/
+  border-left: 1px solid #728751;/*3*/
+}
+
+td#usermenu a {
+  border-right: 1px solid #728751;/*3*/
+  border-bottom: 1px solid #728751;/*3*/
+  border-left: 1px solid #728751;/*3*/
+}
+
+td#usermenu a.menuTop {
+  border-top: 1px solid #728751;/*3*/
+}
